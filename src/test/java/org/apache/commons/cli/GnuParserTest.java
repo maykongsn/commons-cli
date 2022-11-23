@@ -63,36 +63,6 @@ public class GnuParserTest extends ParserTestCase {
     @Override
     @Test
     @Ignore("not supported by the GnuParser")
-    public void testBursting() throws Exception {
-    }
-
-    @Override
-    @Test
-    @Ignore("not supported by the GnuParser")
-    public void testDoubleDash2() throws Exception {
-    }
-
-    @Override
-    @Test
-    @Ignore("not supported by the GnuParser")
-    public void testLongWithoutEqualSingleDash() throws Exception {
-    }
-
-    @Override
-    @Test
-    @Ignore("not supported by the GnuParser")
-    public void testLongWithUnexpectedArgument1() throws Exception {
-    }
-
-    @Override
-    @Test
-    @Ignore("not supported by the GnuParser")
-    public void testLongWithUnexpectedArgument2() throws Exception {
-    }
-
-    @Override
-    @Test
-    @Ignore("not supported by the GnuParser")
     public void testMissingArgWithBursting() throws Exception {
     }
 
